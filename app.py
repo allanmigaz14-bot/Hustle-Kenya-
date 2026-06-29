@@ -75,3 +75,4 @@ if st.button("Find My Hustle", type="primary"):
     
     st.balloons()
     st.info("💡 Tip: Start with 1 hustle. Master it before adding another.")
+st.link_button("💬 WhatsApp Me For 1-on-1 Help - KSh 500", "https://wa.me/254700017433?text=Nisaidie%20na%20hustle%20plan%20yangu")
