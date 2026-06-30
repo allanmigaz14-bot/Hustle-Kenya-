@@ -76,3 +76,9 @@ if st.button("Find My Hustle", type="primary"):
     st.balloons()
     st.info("💡 Tip: Start with 1 hustle. Master it before adding another.")
 st.link_button("💬 WhatsApp Me For 1-on-1 Help - KSh 500", "https://wa.me/254700017433?text=Nisaidie%20na%20hustle%20plan%20yangu")
+with st.expander("9. Nyeri Gadget Plug 📱"):
+    st.write("**Buy:** KZ EDX PRO earphones AliExpress Ksh 752")
+    st.write("**Sell:** Facebook/WhatsApp Nyeri Ksh 1,500") 
+    st.write("**Profit:** Ksh 748 per sale | **Time:** 2 weeks delivery")
+    st.write("**Capital needed:** Ksh 800 to start")
+    st.link_button("Nifunze kuimport 1-on-1", "https://wa.me/254700017433?text=Nataka%20guide%20ya%20AliExpress%20import")
