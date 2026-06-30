@@ -35,7 +35,7 @@ hustles = [
         "min_hours": 5, "max_hours": 20,
         "min_budget": 200, "max_budget": 1000,
         "free_tip": "Start with 1 phone. Buy on Jiji, fix screen, resell for 40% profit.",
-        "paid_plan": "7", "link": "https://connectorlink.online/a/31nR6UmLVHQR9Z"
+        "paid_plan": "7", "link": "https://strimelite.com/register?ref=ALLAN123"
     }
 ]
 if st.button("Find My Hustle", type="primary"):
@@ -75,10 +75,27 @@ if st.button("Find My Hustle", type="primary"):
     
     st.balloons()
     st.info("💡 Tip: Start with 1 hustle. Master it before adding another.")
-st.link_button("💬 WhatsApp Me For 1-on-1 Help - KSh 500", "https://wa.me/254700017433?text=Nisaidie%20na%20hustle%20plan%20yangu")
+    
+    st.success("✅ All hustles above are FREE to join")
+    st.caption("⚠️ I earn Ksh 50 from Strimelite ONLY when you sign up + complete 1 task. You never pay me.")
+    st.link_button("✅ Join Strimelite - Ksh 50 Bonus", "https://strimelite.com/register?ref=ALLAN123")
+    st.link_button("🛒 Jumia KOL - Earn 3-10%", "https://kol.jumia.co.ke")
+    
+    st.divider()
+    st.caption("Questions? WhatsApp me free. Tips optional.")
+    st.link_button("💬 WhatsApp Allan - Free Help", "https://wa.me/254700017433?text=Help%20me%20Allan")
+     
+    
+    st.success("💰 All hustles above are FREE to join")
+    st.caption("⚠️ I earn Ksh 50 commission from Strimelite ONLY when you sign up + complete 1 task. You never pay me.")
+    st.link_button("✅ Join Strimelite Kenya - Ksh 50 Bonus", "https://strimelite.com/register?ref=YOUR_USERNAME")
+    st.link_button("🛒 Jumia KOL Affiliate - Earn 3-10%", "https://kol.jumia.co.ke")
+    
+    
+78  
+84  
 with st.expander("9. Nyeri Gadget Plug 📱"):
     st.write("**Buy:** KZ EDX PRO earphones AliExpress Ksh 752")
     st.write("**Sell:** Facebook/WhatsApp Nyeri Ksh 1,500") 
     st.write("**Profit:** Ksh 748 per sale | **Time:** 2 weeks delivery")
     st.write("**Capital needed:** Ksh 800 to start")
-    st.link_button("Nifunze kuimport 1-on-1", "https://wa.me/254700017433?text=Nataka%20guide%20ya%20AliExpress%20import")
